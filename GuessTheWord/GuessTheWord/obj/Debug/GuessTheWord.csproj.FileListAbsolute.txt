@@ -1,0 +1,13 @@
+c:\users\lu\documents\visual studio 2010\Projects\GuessTheWord\GuessTheWord\Bin\Debug\ApplicationIcon.png
+c:\users\lu\documents\visual studio 2010\Projects\GuessTheWord\GuessTheWord\Bin\Debug\Background.png
+c:\users\lu\documents\visual studio 2010\Projects\GuessTheWord\GuessTheWord\Bin\Debug\GuessTheWord.dll
+c:\users\lu\documents\visual studio 2010\Projects\GuessTheWord\GuessTheWord\Bin\Debug\GuessTheWord.pdb
+c:\users\lu\documents\visual studio 2010\Projects\GuessTheWord\GuessTheWord\Bin\Debug\AppManifest.xaml
+c:\users\lu\documents\visual studio 2010\Projects\GuessTheWord\GuessTheWord\Bin\Debug\GuessTheWord.xap
+c:\users\lu\documents\visual studio 2010\Projects\GuessTheWord\GuessTheWord\obj\Debug\ResolveAssemblyReference.cache
+c:\users\lu\documents\visual studio 2010\Projects\GuessTheWord\GuessTheWord\obj\Debug\App.g.i.cs
+c:\users\lu\documents\visual studio 2010\Projects\GuessTheWord\GuessTheWord\obj\Debug\MainPage.g.i.cs
+c:\users\lu\documents\visual studio 2010\Projects\GuessTheWord\GuessTheWord\obj\Debug\GuessTheWord.g.resources
+c:\users\lu\documents\visual studio 2010\Projects\GuessTheWord\GuessTheWord\obj\Debug\GuessTheWord.dll
+c:\users\lu\documents\visual studio 2010\Projects\GuessTheWord\GuessTheWord\obj\Debug\GuessTheWord.pdb
+c:\users\lu\documents\visual studio 2010\Projects\GuessTheWord\GuessTheWord\obj\Debug\XapCacheFile.xml
